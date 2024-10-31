@@ -1,0 +1,23 @@
+.full {
+  height: 100vh;
+  background: url("src/assets/astronaut-ai-1182023.png") !important;
+}
+.content1,
+.content2 {
+  height: 50vh;
+  width: 30vw;
+}
+.content2{
+background: url("src/assets/astronaut-ai-1182023.png");
+  background-position: center;
+  background-size: cover;
+}
+.signup-box input{
+background: transparent;
+border: white 2px solid ;
+color: white;
+}
+.signup-box input::placeholder{
+    color: white;
+
+}
